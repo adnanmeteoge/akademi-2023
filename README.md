@@ -70,14 +70,14 @@
 <h3 id="bolum4">Docker Container çalıştırılması:</h3>
 
 <ul>
-    <li>-p 8080:5000</li>
+    <li>-p 5000:5000</li>
 </ul>
 <p align="center">
     <img src="https://github.com/adnanmeteoge/akademi-2023/blob/main/Screenshots/4_1.png" alt="4_1" style="max-width:100%;height: auto;">
 </p><br><br>
 
 <ul>
-    <li>http://0.0.0.0:8080/</li>
+    <li>http://0.0.0.0:5000/</li>
 </ul>
 <p align="center">
     <img src="https://github.com/adnanmeteoge/akademi-2023/blob/main/Screenshots/4_2.png" alt="4_2" style="max-width:100%;height: auto;">
